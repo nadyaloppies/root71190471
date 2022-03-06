@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">week4_71190471</string>
+    <string name="login">Masuk</string>
+    <string name="daily">Daily Reminder!</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="pengguna">Nama Pengguna</string>
+</resources>
