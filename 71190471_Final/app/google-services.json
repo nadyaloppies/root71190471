@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448859778642",
+    "project_id": "final-df850",
+    "storage_bucket": "final-df850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448859778642:android:959895bbf08b57c245398b",
+        "android_client_info": {
+          "package_name": "id.ac.ukdw.a71190471_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448859778642-j949mafpecko51qalkniqvs6l48rieet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd_Y2A3bobQkRy6PGD9IXxbuo1Jn7T_Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448859778642-j949mafpecko51qalkniqvs6l48rieet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
